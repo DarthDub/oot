@@ -1,3 +1,8 @@
+/*
+ * File: z_arms_hook.c
+ * Overlay: ovl_Arms_Hook
+ * Description: Hookshot Actor
+ */
 #include "z_arms_hook.h"
 #include "assets/objects/object_link_boy/object_link_boy.h"
 
