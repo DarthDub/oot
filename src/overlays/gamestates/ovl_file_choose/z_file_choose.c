@@ -1,3 +1,9 @@
+/*
+ * File: z_file_choose.c
+ * Overlay: ovl_file_choose
+ * Description: File Select Menu
+ */
+
 #include "file_select.h"
 #include "terminal.h"
 #include "assets/textures/title_static/title_static.h"

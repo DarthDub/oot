@@ -1,3 +1,9 @@
+/*
+ * File: z_en_heishi4.c
+ * Overlay: ovl_En_Heishi4
+ * Description: Hyrule Guard
+ */
+
 #include "z_en_heishi4.h"
 #include "assets/objects/object_sd/object_sd.h"
 #include "terminal.h"

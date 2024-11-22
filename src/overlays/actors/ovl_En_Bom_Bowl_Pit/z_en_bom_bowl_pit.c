@@ -1,3 +1,9 @@
+/*
+ * File: z_en_bom_bowl_pit.c
+ * Overlay: ovl_En_Bom_Bowl_Pit
+ * Description: Bombchu Bowling Alley final target
+ */
+
 #include "z_en_bom_bowl_pit.h"
 #include "terminal.h"
 #include "overlays/actors/ovl_En_Bom_Chu/z_en_bom_chu.h"

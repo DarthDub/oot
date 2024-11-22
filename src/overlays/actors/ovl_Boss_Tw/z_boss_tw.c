@@ -1,3 +1,9 @@
+/*
+ * File: z_boss_tw.c
+ * Overlay: ovl_Boss_Tw
+ * Description: Twinrova boss
+ */
+
 #include "z_boss_tw.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"
 #include "assets/objects/object_tw/object_tw.h"

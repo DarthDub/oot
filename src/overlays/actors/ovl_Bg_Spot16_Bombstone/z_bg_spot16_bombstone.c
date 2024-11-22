@@ -1,3 +1,9 @@
+/*
+ * File: z_bg_spot16_bombstone.c
+ * Overlay: ovl_Bg_Spot16_Bombstone
+ * Description: Death Mountain Trail boulder blocking Dodongo's Cavern
+ */
+
 #include "z_bg_spot16_bombstone.h"
 #include "assets/objects/object_spot16_obj/object_spot16_obj.h"
 #include "assets/objects/object_bombiwa/object_bombiwa.h"

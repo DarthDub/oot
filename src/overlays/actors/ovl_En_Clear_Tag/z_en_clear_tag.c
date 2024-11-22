@@ -1,3 +1,9 @@
+/*
+ * File: z_en_clear_tag.c
+ * Overlay: ovl_En_Clear_Tag
+ * Description: Arwing (Unused)
+ */
+
 #include "z_en_clear_tag.h"
 
 #define FLAGS (ACTOR_FLAG_0 | ACTOR_FLAG_2 | ACTOR_FLAG_4 | ACTOR_FLAG_5)

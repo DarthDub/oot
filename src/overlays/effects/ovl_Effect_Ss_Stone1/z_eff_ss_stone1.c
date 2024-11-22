@@ -1,7 +1,7 @@
 /*
  * File: z_eff_ss_stone1.c
  * Overlay: ovl_Effect_Ss_Stone1
- * Description:
+ * Description: Gossip Stone effects?
  */
 
 #include "z_eff_ss_stone1.h"

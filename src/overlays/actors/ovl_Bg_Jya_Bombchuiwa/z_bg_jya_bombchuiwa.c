@@ -1,3 +1,9 @@
+/*
+ * File: z_bg_jya_bombchuiwa.c
+ * Overlay: ovl_Bg_Jya_Bombchuiwa
+ * Description: Light Blocking Bombable Rock (Spirit Temple)
+ */
+
 #include "z_bg_jya_bombchuiwa.h"
 #include "overlays/effects/ovl_Effect_Ss_Kakera/z_eff_ss_kakera.h"
 #include "assets/objects/object_jya_obj/object_jya_obj.h"

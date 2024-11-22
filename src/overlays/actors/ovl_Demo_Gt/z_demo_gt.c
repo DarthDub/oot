@@ -1,3 +1,9 @@
+/*
+ * File: z_demo_gt.c
+ * Overlay: ovl_Demo_Gt
+ * Description: Ganon's Tower collapsing (Cutscene Objects)
+ */
+
 #include "z_demo_gt.h"
 
 #include "z64frame_advance.h"

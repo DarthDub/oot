@@ -1,3 +1,9 @@
+/*
+ * File: z_en_niw_lady.c
+ * Overlay: ovl_En_Niw_Lady
+ * Description: Cucco Lady
+ */
+
 #include "z_en_niw_lady.h"
 #include "assets/objects/object_ane/object_ane.h"
 #include "assets/objects/object_os_anime/object_os_anime.h"

@@ -1,3 +1,9 @@
+/*
+ * File: z_boss_ganon.c
+ * Overlay: ovl_Boss_Ganon
+ * Description: Ganondorf Boss
+ */
+
 #include "z_boss_ganon.h"
 #include "assets/overlays/ovl_Boss_Ganon/ovl_Boss_Ganon.h"
 #include "overlays/actors/ovl_En_Ganon_Mant/z_en_ganon_mant.h"

@@ -1,3 +1,9 @@
+/*
+ * File: z_en_dekubaba.c
+ * Overlay: ovl_En_Dekubaba
+ * Description: Deku Baba
+ */
+
 #include "z_en_dekubaba.h"
 #include "assets/objects/object_dekubaba/object_dekubaba.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"

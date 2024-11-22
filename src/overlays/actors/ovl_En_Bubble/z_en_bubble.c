@@ -1,3 +1,9 @@
+/*
+ * File: z_en_bubble.c
+ * Overlay: ovl_En_Bubble
+ * Description: Shabom enemy
+ */
+
 #include "z_en_bubble.h"
 #include "assets/objects/object_bubble/object_bubble.h"
 

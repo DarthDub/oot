@@ -1,3 +1,9 @@
+/*
+ * File: z_en_daiku.c
+ * Overlay: ovl_En_Daiku
+ * Description: Carpenters (Adult Link)
+ */
+
 #include "z_en_daiku.h"
 #include "overlays/actors/ovl_En_GeldB/z_en_geldb.h"
 #include "assets/objects/object_daiku/object_daiku.h"
@@ -372,8 +378,8 @@ void EnDaiku_Jailed(EnDaiku* this, PlayState* play) {
 }
 
 /**
- * The player defeated the gerudo guard and the carpenter is waiting for the cell door to be opened, and for the player
- * to then talk to him
+ * The player defeated the gerudo guard and the carpenter is waiting for the cell door to be opened
+ * and for the player to then talk to him
  */
 void EnDaiku_WaitFreedom(EnDaiku* this, PlayState* play) {
     SkelAnime_Update(&this->skelAnime);

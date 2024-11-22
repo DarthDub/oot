@@ -1,7 +1,7 @@
 /*
  * File: z_en_lightbox.c
  * Overlay: ovl_En_Lightbox
- * Description:
+ * Description: Large rectangular block that makes noise. (Unused)
  */
 
 #include "z_en_lightbox.h"

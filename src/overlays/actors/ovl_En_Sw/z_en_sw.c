@@ -1,3 +1,9 @@
+/*
+ * File: z_en_sw.c
+ * Overlay: ovl_En_Sw
+ * Description: Skullwalltula and Gold Skulltula enemies
+ */
+
 #include "z_en_sw.h"
 #include "assets/objects/object_st/object_st.h"
 

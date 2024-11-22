@@ -1,3 +1,9 @@
+/*
+ * File: z_en_fz.c
+ * Overlay: ovl_En_Fz
+ * Description: Freezard enemy
+ */
+
 #include "z_en_fz.h"
 #include "assets/objects/object_fz/object_fz.h"
 

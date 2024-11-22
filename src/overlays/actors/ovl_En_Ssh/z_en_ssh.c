@@ -1,3 +1,9 @@
+/*
+ * File: z_en_ssh.c
+ * Overlay: ovl_En_Ssh
+ * Description: Cursed Skulltula Man
+ */
+
 #include "z_en_ssh.h"
 #include "assets/objects/object_ssh/object_ssh.h"
 

@@ -1,3 +1,9 @@
+/*
+ * File: z_bg_jya_cobra.c
+ * Overlay: ovl_BG_Jya_Cobra
+ * Description: Rotatable Cobra Mirror (Spirit Temple)
+ */
+
 #include "z_bg_jya_cobra.h"
 #include "overlays/actors/ovl_Bg_Jya_Bigmirror/z_bg_jya_bigmirror.h"
 #include "overlays/actors/ovl_Mir_Ray/z_mir_ray.h"

@@ -1,3 +1,9 @@
+/*
+ * File: z_boss_dodongo.c
+ * Overlay: ovl_Boss_Dodongo
+ * Description: King Dodongo boss
+ */
+
 #include "z_boss_dodongo.h"
 #include "assets/objects/object_kingdodongo/object_kingdodongo.h"
 #include "overlays/actors/ovl_Door_Warp1/z_door_warp1.h"

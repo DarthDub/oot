@@ -1,3 +1,9 @@
+/*
+ * File: z_en_bom_bowl_man.c
+ * Overlay: ovl_En_Bom_Bowl_Man
+ * Description: Bombchu Bowling Alley Lady
+ */
+
 #include "z_en_bom_bowl_man.h"
 #include "terminal.h"
 #include "overlays/actors/ovl_En_Syateki_Niw/z_en_syateki_niw.h"

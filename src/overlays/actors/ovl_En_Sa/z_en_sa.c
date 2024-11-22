@@ -1,3 +1,9 @@
+/*
+ * File: z_en_sa.c
+ * Overlay: ovl_En_Sa
+ * Description: Saria
+ */
+
 #include "z_en_sa.h"
 #include "overlays/actors/ovl_En_Elf/z_en_elf.h"
 #include "assets/objects/object_sa/object_sa.h"

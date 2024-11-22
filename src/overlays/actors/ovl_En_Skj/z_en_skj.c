@@ -1,3 +1,9 @@
+/*
+ * File: z_en_skj.c
+ * Overlay: ovl_En_Skj
+ * Description: Skull Kid
+ */
+
 #include "z_en_skj.h"
 #include "overlays/actors/ovl_En_Skjneedle/z_en_skjneedle.h"
 #include "assets/objects/object_skj/object_skj.h"

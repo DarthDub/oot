@@ -1,3 +1,9 @@
+/*
+ * File: z_en_encount2.c
+ * Overlay: ovl_En_Encount2
+ * Description: Falling Fire Rock Spawner
+ */
+
 #include "z_en_encount2.h"
 #include "overlays/actors/ovl_En_Fire_Rock/z_en_fire_rock.h"
 #include "quake.h"

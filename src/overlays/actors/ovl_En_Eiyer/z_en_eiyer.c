@@ -1,3 +1,9 @@
+/*
+ * File: z_en_eiyer.c
+ * Overlay: ovl_En_Eiyer
+ * Description: Stinger enemy (Land)
+ */
+
 #include "z_en_eiyer.h"
 #include "assets/objects/object_ei/object_ei.h"
 

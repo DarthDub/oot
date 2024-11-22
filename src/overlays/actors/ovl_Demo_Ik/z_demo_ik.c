@@ -1,3 +1,9 @@
+/*
+ * File: z_demo_ik.c
+ * Overlay: ovl_Demo_Ik
+ * Description: Iron Knuckle armor pieces (Spirit Temple Nabooru fight)
+ */
+
 #include "z_demo_ik.h"
 #include "terminal.h"
 #include "assets/objects/object_ik/object_ik.h"

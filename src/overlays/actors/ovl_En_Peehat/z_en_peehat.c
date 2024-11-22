@@ -1,3 +1,9 @@
+/*
+ * File: z_en_peehat.c
+ * Overlay: ovl_En_Peehat
+ * Description: Peahat enemy
+ */
+
 #include "z_en_peehat.h"
 #include "assets/objects/object_peehat/object_peehat.h"
 #include "overlays/actors/ovl_En_Bom/z_en_bom.h"

@@ -1,3 +1,9 @@
+/*
+ * File: z_en_crow.c
+ * Overlay: ovl_En_Crow
+ * Description: Guay enemy
+ */
+
 #include "z_en_crow.h"
 #include "assets/objects/object_crow/object_crow.h"
 

@@ -1,3 +1,9 @@
+/*
+ * File: z_door_warp1.c
+ * Overlay: ovl_Door_Warp1
+ * Description: Warp Portal
+ */
+
 #include "z_door_warp1.h"
 #include "assets/objects/object_warp1/object_warp1.h"
 

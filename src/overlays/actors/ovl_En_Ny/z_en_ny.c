@@ -1,3 +1,9 @@
+/*
+ * File: z_en_ny.c
+ * Overlay: ovl_En_Ny
+ * Description: Spike enemy
+ */
+
 #include "z_en_ny.h"
 #include "assets/objects/object_ny/object_ny.h"
 

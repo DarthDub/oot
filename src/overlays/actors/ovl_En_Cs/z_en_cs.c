@@ -1,3 +1,9 @@
+/*
+ * File: z_en_cs.c
+ * Overlay: ovl_En_Cs
+ * Description: Graveyard Boy
+ */
+
 #include "z_en_cs.h"
 #include "assets/objects/object_cs/object_cs.h"
 #include "assets/objects/object_link_child/object_link_child.h"

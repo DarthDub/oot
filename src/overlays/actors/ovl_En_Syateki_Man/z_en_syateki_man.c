@@ -1,3 +1,9 @@
+/*
+ * File: z_en_syateki_man.c
+ * Overlay: ovl_En_Syateki_Man
+ * Description: Shooting Gallery Man
+ */
+
 #include "z_en_syateki_man.h"
 #include "terminal.h"
 #include "overlays/actors/ovl_En_Syateki_Itm/z_en_syateki_itm.h"

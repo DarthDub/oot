@@ -1,3 +1,9 @@
+/*
+ * File: z_demo_kankyo.c
+ * Overlay: ovl_Demo_Kankyo
+ * Description: Temple of Time Objects
+ */
+
 #include "z_demo_kankyo.h"
 #include "z64cutscene_commands.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"

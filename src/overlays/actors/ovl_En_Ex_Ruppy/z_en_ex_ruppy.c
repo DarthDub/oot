@@ -1,3 +1,9 @@
+/*
+ * File: z_en_ex_ruppy.c
+ * Overlay: ovl_En_Ex_Ruppy
+ * Description: Sparkling Rupees
+ */
+
 #include "z_en_ex_ruppy.h"
 #include "terminal.h"
 #include "../ovl_En_Diving_Game/z_en_diving_game.h"

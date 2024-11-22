@@ -1,3 +1,9 @@
+/*
+ * File: z_en_bom_chu.c
+ * Overlay: ovl_En_Bom_Chu
+ * Description: Bombchu
+ */
+
 #include "z_en_bom_chu.h"
 #include "overlays/actors/ovl_En_Bom/z_en_bom.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"

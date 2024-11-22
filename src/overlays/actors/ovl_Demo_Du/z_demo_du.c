@@ -1,3 +1,9 @@
+/*
+ * File: z_demo_du.c
+ * Overlay: ovl_Demo_Du
+ * Description: Darunia (Cutscenes)
+ */
+
 #include "z_demo_du.h"
 #include "assets/objects/object_du/object_du.h"
 #include "overlays/actors/ovl_Demo_Effect/z_demo_effect.h"

@@ -1,3 +1,9 @@
+/*
+ * File: z_en_holl.c
+ * Overlay: ovl_En_Holl
+ * Description: Room changing plane
+ */
+
 #include "z_en_holl.h"
 
 #define FLAGS ACTOR_FLAG_4

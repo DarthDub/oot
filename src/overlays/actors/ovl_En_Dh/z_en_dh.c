@@ -1,3 +1,9 @@
+/*
+ * File: z_en_dh.c
+ * Overlay: ovl_En_Dh
+ * Description: Dead Hand
+ */
+
 #include "z_en_dh.h"
 #include "assets/objects/object_dh/object_dh.h"
 

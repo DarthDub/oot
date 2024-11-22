@@ -1,3 +1,9 @@
+/*
+ * File: z_bg_spot18_basket.c
+ * Overlay: ovl_Bg_Spot18_Basket
+ * Description: Goron City spinning Goron Vase
+ */
+
 #include "z_bg_spot18_basket.h"
 #include "assets/objects/object_spot18_obj/object_spot18_obj.h"
 #include "terminal.h"

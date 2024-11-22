@@ -1,3 +1,9 @@
+/*
+ * File: z_bg_mori_elevator.c
+ * Overlay: ovl_Bg_Mori_Elevator
+ * Description: Elevator (Forest Temple)
+ */
+
 #include "z_bg_mori_elevator.h"
 #include "assets/objects/object_mori_objects/object_mori_objects.h"
 

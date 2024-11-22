@@ -1,3 +1,9 @@
+/*
+ * File: z_en_box.c
+ * Overlay: ovl_En_Box
+ * Description: Treasure Chest
+ */
+
 #include "z_en_box.h"
 #include "overlays/actors/ovl_Demo_Kankyo/z_demo_kankyo.h"
 #include "assets/objects/object_box/object_box.h"

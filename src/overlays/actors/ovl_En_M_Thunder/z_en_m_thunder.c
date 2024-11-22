@@ -1,3 +1,9 @@
+/*
+ * File: z_en_m_thunder.c
+ * Overlay: ovl_En_M_Thunder
+ * Description: Spin Attack
+ */
+
 #include "z_en_m_thunder.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"
 

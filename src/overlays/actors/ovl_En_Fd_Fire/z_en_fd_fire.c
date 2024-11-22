@@ -1,3 +1,9 @@
+/*
+ * File: z_en_fd_fire.c
+ * Overlay: ovl_En_Fd_Fire
+ * Description: Flare Dancer Fire Attack
+ */
+
 #include "z_en_fd_fire.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"
 

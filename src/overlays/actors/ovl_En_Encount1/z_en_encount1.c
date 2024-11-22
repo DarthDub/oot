@@ -1,3 +1,9 @@
+/*
+ * File: z_en_encount1.c
+ * Overlay: ovl_En_Encount1
+ * Description: Enemy Spawner
+ */
+
 #include "z_en_encount1.h"
 #include "terminal.h"
 #include "overlays/actors/ovl_En_Tite/z_en_tite.h"

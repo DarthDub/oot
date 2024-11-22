@@ -1,3 +1,9 @@
+/*
+ * File: z_en_go2.c
+ * Overlay: ovl_En_Go2
+ * Description: Gorons 2
+ */
+
 #include "z_en_go2.h"
 #include "overlays/actors/ovl_En_Bom/z_en_bom.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"

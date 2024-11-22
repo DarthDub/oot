@@ -1,3 +1,9 @@
+/*
+ * File: z_en_okuta.c
+ * Overlay: ovl_En_Okuta
+ * Description: Octorok enemy
+ */
+
 #include "z_en_okuta.h"
 #include "assets/objects/object_okuta/object_okuta.h"
 

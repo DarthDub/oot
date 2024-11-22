@@ -1,7 +1,7 @@
 /*
  * File: z_eff_ss_g_magma2.c
  * Overlay: ovl_Effect_Ss_G_Magma2
- * Description:
+ * Description: King Dodongo Lava
  */
 
 #include "z_eff_ss_g_magma2.h"

@@ -1,3 +1,9 @@
+/*
+ * File: z_efc_erupc.c
+ * Overlay: ovl_Efc_Erupc
+ * Description: Lava Particle Fountain (Death Mountain panorama)
+ */
+
 #include "z_efc_erupc.h"
 #include "assets/objects/object_efc_erupc/object_efc_erupc.h"
 

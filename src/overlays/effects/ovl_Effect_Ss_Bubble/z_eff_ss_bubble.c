@@ -1,7 +1,7 @@
 /*
  * File: z_eff_ss_bubble.c
  * Overlay: ovl_Effect_Ss_Bubble
- * Description:
+ * Description: Link's air bubbles while swimming
  */
 
 #include "z_eff_ss_bubble.h"

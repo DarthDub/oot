@@ -1,3 +1,9 @@
+/*
+ * File: z_demo_tre_lgt.c
+ * Overlay: ovl_Demo_Tre_Lgt
+ * Description: Treasure Chest Light
+ */
+
 #include "z_demo_tre_lgt.h"
 #include "overlays/actors/ovl_En_Box/z_en_box.h"
 #include "assets/objects/object_box/object_box.h"

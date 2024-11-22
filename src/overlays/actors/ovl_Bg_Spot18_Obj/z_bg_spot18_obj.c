@@ -1,8 +1,7 @@
-
 /*
  * File: z_bg_spot18_obj.c
  * Overlay: ovl_Bg_Spot18_Obj
- * Description:
+ * Description: Goron City Statue (Darunia's Room)
  */
 
 #include "z_bg_spot18_obj.h"

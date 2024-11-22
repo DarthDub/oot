@@ -1,3 +1,9 @@
+/*
+ * File: z_en_rd.c
+ * Overlay: ovl_En_Rd
+ * Description: Redead and Gibdo enemies
+ */
+
 #include "z_en_rd.h"
 #include "assets/objects/object_rd/object_rd.h"
 

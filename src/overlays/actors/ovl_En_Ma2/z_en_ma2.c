@@ -1,3 +1,9 @@
+/*
+ * File: z_en_ma2.c
+ * Overlay: ovl_En_Ma2
+ * Description: Malon (Adult, Ingo's Ranch)
+ */
+
 #include "z_en_ma2.h"
 #include "assets/objects/object_ma2/object_ma2.h"
 

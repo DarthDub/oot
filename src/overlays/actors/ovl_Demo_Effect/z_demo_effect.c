@@ -1,3 +1,9 @@
+/*
+ * File: z_demo_effect.c
+ * Overlay: ovl_Demo_Effect
+ * Description: Spiritual Stones, Medallions, Triforce
+ */
+
 #include "z_demo_effect.h"
 #include "terminal.h"
 #include "assets/objects/gameplay_keep/gameplay_keep.h"

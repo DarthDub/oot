@@ -1,3 +1,9 @@
+/*
+ * File: z_boss_ganon2.c
+ * Overlay: ovl_Boss_Ganon2
+ * Description: Ganon Boss
+ */
+
 #include "z_boss_ganon2.h"
 #include "overlays/actors/ovl_Boss_Ganon/z_boss_ganon.h"
 #include "overlays/actors/ovl_Demo_Gj/z_demo_gj.h"

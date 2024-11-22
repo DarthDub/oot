@@ -1,3 +1,9 @@
+/*
+ * File: z_kaleido_scope.c
+ * Overlay: ovl_kaleido_scope
+ * Description: Pause Menus
+ */
+
 #include "z_kaleido_scope.h"
 #include "assets/textures/icon_item_static/icon_item_static.h"
 #include "assets/textures/icon_item_24_static/icon_item_24_static.h"
